@@ -16,6 +16,7 @@
       {
         "label": "off"
       }
-    ]
+    ],
+    "css-prefix-order": "off"
   }
 }

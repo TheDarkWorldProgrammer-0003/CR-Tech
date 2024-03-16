@@ -1,6 +1,6 @@
 # CR-Tech
-  This Repo consits of web Development projects of CR-Tech Company
-  Projects include:
+  This Repo consits of web Development projects of **CR-Tech Company**
+  Projects which include:
  # 1) Resume Builder
  ## Description: Develop a web application that assists users in creating professional resumes with customizable templates.
 
